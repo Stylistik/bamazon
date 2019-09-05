@@ -14,3 +14,6 @@ Step three allowing checkout
 Step four conducting
 ![Step four conducting](https://github.com/Stylistik/bamazon/blob/master/Step4.png?raw=true)
 
+Video demonstration
+
+https://drive.google.com/file/d/1xb06RdQTeXRXwyuSCcee8tuWLhzt3Ryo/view
